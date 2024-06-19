@@ -69,9 +69,9 @@ st.write("### Preprocessed Dataset")
 st.dataframe(loan_dataset.head())
 
 st.markdown("""
-#### Penjelasan
+#### Penjelasan Prapemrosesan Data
 
-Pada prape       
+Pada pra-pemrosesan, dilakukan penghapusan nilai data yang hilang dan mengubah nilai kategori menjadi nilai numerik.      
 
 """)
 
